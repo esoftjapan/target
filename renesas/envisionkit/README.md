@@ -2,7 +2,7 @@
 Envision Kitはルネサス製32ビットマイコンRX65Nの評価キットです。タッチスクリーン付き480×272サイズのLCDが搭載されています。
 本サイトでは、Envision Kitを対象にしたアプリケーションの実装例をいくつか紹介します。
 GLCDCとタッチスクリーンはFITではなくハードウエアのレジスタに直接アクセスする方法で実装しています。
-実装の詳細は、[ここ](http://esoftjapan.com/wp/wp-admin/post.php?post=465&action=edit)をご覧ください。
+実装の詳細は、[ここ](http://esoftjapan.com/wp/category/mcu/)をご覧ください。
 
 # 使い方
 各ZIPファイルを展開すると、e2studioのプロジェクトが作成されます。
