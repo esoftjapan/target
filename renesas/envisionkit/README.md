@@ -10,3 +10,6 @@ GLCDCとタッチスクリーンの実装については[ここ](http://esoftjap
 
 # pmsm4.zip
 300kW永久磁石同期モータのベクトル制御
+
+# crosswalksignals.zip
+ラダー回路を使った横断歩道の信号機
